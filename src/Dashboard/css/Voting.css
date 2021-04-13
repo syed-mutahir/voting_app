@@ -1,0 +1,14 @@
+.votingContainer{
+    display: flex;
+    flex-direction: column;
+}
+.votingContainer .innerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.votingContainer .innerContainer .rightSidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
